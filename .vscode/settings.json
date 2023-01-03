@@ -1,0 +1,9 @@
+{
+  "conventionalCommits.scopes": [
+    "component",
+    "npm",
+    "images",
+    "missions",
+    "planets"
+  ]
+}
