@@ -1,8 +1,11 @@
 import React from 'react'
+import Title from './Title'
 
 function SolarSystem() {
   return (
-    <div/>
+    <div>
+      <Title headline='Planetas'/>
+    </div>
   )
 }
 
