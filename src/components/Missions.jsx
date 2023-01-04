@@ -7,8 +7,10 @@ function Missions() {
   return (
     <div>
       <Title headline='Missões'/>
-      {missions.map(({name, year, country, destination}) =>
-    <MissionCard name={name} year={year} country={country} destination={destination}/>)}
+      <div className='flex flex-wrap justify-center'>
+        {missions.map(({name, year, country, destination}) =>
+          <MissionCard name={name} year={year} country={country} destination={destination}/>)}
+      </div>
     </div>
   )
 }

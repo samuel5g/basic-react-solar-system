@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 function Title({headline}) {
   return (
-    <h2>{headline}</h2>
+    <h2 className='text-slate-50 mt-10 mb-20 uppercase text-5xl text-center'>{headline}</h2>
   )
 }
 
