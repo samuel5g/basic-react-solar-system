@@ -5,11 +5,11 @@ import SolarSystem from './components/SolarSystem';
 
 function App() {
   return (
-    <>
+    <main className="text-center flex flex-col ">
       <Header/>
       <SolarSystem/>
       <Missions/>
-    </>
+    </main>
   );
 }
 

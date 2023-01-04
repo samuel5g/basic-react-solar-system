@@ -7,7 +7,9 @@ function SolarSystem() {
   return (
     <div>
       <Title headline='Planetas'/>
-      {planets.map(({name, image,}) => <PlanetCard planetImage={image} planetName={name}/>)}
+      <div  className='flex flex-wrap justify-center'>
+        {planets.map(({name, image,}) => <PlanetCard planetImage={image} planetName={name}/>)}
+      </div>
     </div>
   )
 }
