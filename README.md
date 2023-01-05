@@ -2,7 +2,7 @@
 <p>Here is my first front end project made in <a href="https://github.com/betrybe">Trybe</a>.</p>
 <p>Even though it's a super simple project, it matters a lot to me, as it was my first contact with ReactJS. So I decided this would be my first styled project.</p>
 <h2>And this is what he looks like:</h2>
-<iframe src="https://giphy.com/embed/pM1o2YzoxHInV8MKLA" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pM1o2YzoxHInV8MKLA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/pM1o2YzoxHInV8MKLA" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p>If you are a developer and have npm installed on your machine, just clone the repository and run npm install in root directory</p>
 <p>If you don't, just click <a  href="https://basic-react-solar-system.vercel.app/">here</a></p>
