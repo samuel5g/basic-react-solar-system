@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my first (real) personal repository!</h1>
 <p>Here is my first front end project made in <a href="https://github.com/betrybe">Trybe</a>.</p>
 <p>Even though it's a super simple project, it matters a lot to me, as it was my first contact with ReactJS. So I decided this would be my first styled project.</p>
-<h2>And this is what he looks like:</h2>
+<h2>And this is how he looks like:</h2>
 
 ![](https://github.com/samuel5g/basic-react-solar-system/blob/main/giphy.gif)
 
