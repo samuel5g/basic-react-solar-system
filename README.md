@@ -3,9 +3,9 @@
 <p>Even though it's a super simple project, it matters a lot to me, as it was my first contact with ReactJS. So I decided this would be my first styled project.</p>
 <h2>And this is what he looks like:</h2>
 
-<img src="https://media.giphy.com/media/pM1o2YzoxHInV8MKLA/giphy-downsized-large.gif" width="40" height="40" />
+![](https://github.com/samuel5g/basic-react-solar-system/blob/main/giphy.gif)
 
-<p>If you are a developer and have npm installed on your machine, just clone the repository and run npm install in root directory</p>
+<p>If you are a developer and have npm installed on your machine, just clone the repository and run <code>npm install</code> in root directory</p>
 <p>If you don't, just click <a  href="https://basic-react-solar-system.vercel.app/">here</a></p>
 
 <h3 align="left">Connect with me:</h3>
